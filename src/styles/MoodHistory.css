@@ -1,0 +1,15 @@
+.history-card {
+  border: 1px solid #ddd;
+  padding: 15px;
+  border-radius: 10px;
+  margin-top: 15px;
+}
+
+.date {
+  color: gray;
+  margin: 10px 0;
+}
+
+.delete-btn {
+  background: #dc2626;
+}
